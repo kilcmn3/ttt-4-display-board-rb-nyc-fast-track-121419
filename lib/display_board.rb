@@ -4,5 +4,3 @@
 def display_board(board)
   puts board[row]
 end
-
-display_board
